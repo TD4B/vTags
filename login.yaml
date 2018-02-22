@@ -1,0 +1,8 @@
+NSX:
+  hostname: 'https://nsxipaddress'
+  username: 'admin'
+  password: 'password'
+vCenter:
+  hostname: 'vcenteripaddress'
+  username: 'administrator@vsphere.local'
+  password: 'password'
